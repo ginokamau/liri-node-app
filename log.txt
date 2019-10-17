@@ -1,0 +1,338 @@
+
+==============================================concert-this Results
+
+Artist(s):  logic
+Venue:  The Pavilion at Toyota Music Factory
+Location:  Irving
+Date:  10/17/2019
+
+
+==============================================concert-this Results
+
+Artist(s):  logic
+Venue:  Smart Financial Centre at Sugar Land
+Location:  Sugar Land
+Date:  10/17/2019
+
+
+==============================================concert-this Results
+
+Artist(s):  logic
+Venue:  AmericanAirlines Arena
+Location:  Miami
+Date:  10/17/2019
+
+
+==============================================concert-this Results
+
+Artist(s):  logic
+Venue:  Addition Financial Arena
+Location:  Orlando
+Date:  10/17/2019
+
+
+==============================================concert-this Results
+
+Artist(s):  logic
+Venue:  Infinite Energy Center
+Location:  Duluth
+Date:  10/17/2019
+
+
+==============================================concert-this Results
+
+Artist(s):  logic
+Venue:  Greensboro Coliseum Complex
+Location:  Greensboro
+Date:  10/17/2019
+
+
+==============================================concert-this Results
+
+Artist(s):  logic
+Venue:  The Met Philadelphia
+Location:  Philadelphia
+Date:  10/17/2019
+
+
+==============================================concert-this Results
+
+Artist(s):  logic
+Venue:  Mohegan Sun Arena
+Location:  Uncasville
+Date:  10/17/2019
+
+
+==============================================concert-this Results
+
+Artist(s):  logic
+Venue:  EagleBank Arena
+Location:  Fairfax
+Date:  10/17/2019
+
+
+==============================================concert-this Results
+
+Artist(s):  logic
+Venue:  PPL Center
+Location:  Allentown
+Date:  10/17/2019
+
+
+==============================================concert-this Results
+
+Artist(s):  logic
+Venue:  Agganis Arena
+Location:  Boston
+Date:  10/17/2019
+
+
+==============================================concert-this Results
+
+Artist(s):  logic
+Venue:  Petersen Events Center
+Location:  Pittsburgh
+Date:  10/17/2019
+
+
+==============================================concert-this Results
+
+Artist(s):  logic
+Venue:  Barclays Center
+Location:  Brooklyn
+Date:  10/17/2019
+
+
+==============================================concert-this Results
+
+Artist(s):  logic
+Venue:  Logic 
+Location:  Windsor
+Date:  10/17/2019
+
+
+==============================================concert-this Results
+
+Artist(s):  logic
+Venue:  Wolstein Center
+Location:  Cleveland
+Date:  10/17/2019
+
+
+==============================================concert-this Results
+
+Artist(s):  logic
+Venue:  Scotiabank Arena
+Location:  Toronto
+Date:  10/17/2019
+
+
+==============================================concert-this Results
+
+Artist(s):  logic
+Venue:  Allstate Arena
+Location:  Rosemont
+Date:  10/17/2019
+
+
+==============================================movie-this Results
+
+Title:  McLintock!
+Release Year:  1963
+IMDB Rating:  7.2
+Rotten Tomatoes Rating:  [object Object],[object Object]
+Country:  USA
+Language:  English
+
+Plot:  Wealthy rancher G.W. McLintock uses his power and influence in the territory to keep the peace between farmers, ranchers, land-grabbers, Indians and corrupt government officials.
+
+Actors:  John Wayne, Maureen O'Hara, Patrick Wayne, Stefanie Powers
+
+
+==============================================movie-this Results
+
+Title:  Black Panther
+Release Year:  2018
+IMDB Rating:  7.3
+Rotten Tomatoes Rating:  [object Object],[object Object],[object Object]
+Country:  USA
+Language:  English, Swahili, Nama, Xhosa, Korean
+
+Plot:  T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.
+
+Actors:  Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira
+
+
+==============================================movie-this Results
+
+Title:  Enter the Dragon
+Release Year:  1973
+IMDB Rating:  7.7
+Rotten Tomatoes Rating:  [object Object],[object Object],[object Object]
+Country:  Hong Kong, USA
+Language:  English, Cantonese
+
+Plot:  A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover.
+
+Actors:  Bruce Lee, John Saxon, Jim Kelly, Ahna Capri
+
+
+==============================================spotify-this-song Results
+
+Artist(s):  Eagles
+Song:  Hotel California - 2013 Remaster
+URL:  https://open.spotify.com/album/2widuo17g5CEC66IbzveRu
+Album:  Hotel California (2013 Remaster)
+
+
+==============================================spotify-this-song Results
+
+Artist(s):  Eagles
+Song:  Life in the Fast Lane - 2013 Remaster
+URL:  https://open.spotify.com/album/2widuo17g5CEC66IbzveRu
+Album:  Hotel California (2013 Remaster)
+
+
+==============================================spotify-this-song Results
+
+Artist(s):  Eagles
+Song:  Hotel California - 2013 Remaster
+URL:  https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa
+Album:  The Very Best Of The Eagles (Remastered)
+
+
+==============================================spotify-this-song Results
+
+Artist(s):  Eagles
+Song:  New Kid in Town - 2013 Remaster
+URL:  https://open.spotify.com/album/2widuo17g5CEC66IbzveRu
+Album:  Hotel California (2013 Remaster)
+
+
+==============================================spotify-this-song Results
+
+Artist(s):  Eagles
+Song:  Hotel California - Live at The Forum, Los Angeles, CA, 10/20-22/1976
+URL:  https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn
+Album:  Hotel California (40th Anniversary Expanded Edition)
+
+
+==============================================spotify-this-song Results
+
+Artist(s):  Tyga
+Song:  Molly
+URL:  https://open.spotify.com/album/7zoQtXc7TUyHnmaC6LtjEe
+Album:  Hotel California (Deluxe)
+
+
+==============================================spotify-this-song Results
+
+Artist(s):  Gipsy Kings
+Song:  Hotel California (Spanish Mix)
+URL:  https://open.spotify.com/album/1I1PxMVe6EXx9I3BlhQ3id
+Album:  !Volare! The Very Best of the Gipsy Kings
+
+
+==============================================spotify-this-song Results
+
+Artist(s):  Tyga
+Song:  Switch Lanes
+URL:  https://open.spotify.com/album/7zoQtXc7TUyHnmaC6LtjEe
+Album:  Hotel California (Deluxe)
+
+
+==============================================spotify-this-song Results
+
+Artist(s):  Tyga
+Song:  Switch Lanes
+URL:  https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7
+Album:  Hotel California (Deluxe)
+
+
+==============================================spotify-this-song Results
+
+Artist(s):  Eagles
+Song:  Victim of Love - 2013 Remaster
+URL:  https://open.spotify.com/album/2widuo17g5CEC66IbzveRu
+Album:  Hotel California (2013 Remaster)
+
+
+==============================================spotify-this-song Results
+
+Artist(s):  Eagles
+Song:  Wasted Time - 2013 Remaster
+URL:  https://open.spotify.com/album/2widuo17g5CEC66IbzveRu
+Album:  Hotel California (2013 Remaster)
+
+
+==============================================spotify-this-song Results
+
+Artist(s):  Eagles
+Song:  Hotel California - Live On MTV, 1994
+URL:  https://open.spotify.com/album/2Tz88LCwtg5sli8x2YjJyF
+Album:  Hell Freezes Over (Remaster 2018)
+
+
+==============================================spotify-this-song Results
+
+Artist(s):  Yung Pinch
+Song:  When I Get Home (Hotel California)
+URL:  https://open.spotify.com/album/03Z6oSuqK0CtGPu55d23sf
+Album:  When I Get Home (Hotel California)
+
+
+==============================================spotify-this-song Results
+
+Artist(s):  Eagles
+Song:  Hotel California - Live
+URL:  https://open.spotify.com/album/04ZCu8OHFUgbf9Ko0bOSZ2
+Album:  Eagles Live
+
+
+==============================================spotify-this-song Results
+
+Artist(s):  Passenger
+Song:  Hotel California (Cover)
+URL:  https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs
+Album:  Sunday Night Sessions
+
+
+==============================================spotify-this-song Results
+
+Artist(s):  Tyga
+Song:  Dope
+URL:  https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7
+Album:  Hotel California (Deluxe)
+
+
+==============================================spotify-this-song Results
+
+Artist(s):  Eagles
+Song:  Hotel California - 2013 Remaster
+URL:  https://open.spotify.com/album/6RlfbA2m8ch5vBYkRS7nuK
+Album:  Eagles Greatest Hits Vol. 2 (2013 Remaster)
+
+
+==============================================spotify-this-song Results
+
+Artist(s):  Eagles
+Song:  Try and Love Again - 2013 Remaster
+URL:  https://open.spotify.com/album/2widuo17g5CEC66IbzveRu
+Album:  Hotel California (2013 Remaster)
+
+
+==============================================spotify-this-song Results
+
+Artist(s):  Eagles
+Song:  The Last Resort - 2013 Remaster
+URL:  https://open.spotify.com/album/2widuo17g5CEC66IbzveRu
+Album:  Hotel California (2013 Remaster)
+
+
+==============================================spotify-this-song Results
+
+Artist(s):  Midtown Stories
+Song:  Hotel California
+URL:  https://open.spotify.com/album/0t5ksj9r4X84jcEbjz7n4l
+Album:  Worthwhile
+
