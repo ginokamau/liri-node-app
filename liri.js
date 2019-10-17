@@ -41,9 +41,9 @@ function concertThis() {
   Axios.get(bitURL)
     // after data comes back from the request
     .then(function(response){
-      console.log(bitURL);
+      // console.log(bitURL);
       
-      console.log(response.data);
+      // console.log(response.data);
       // storing the data from the AJAX request in the results variable
       var results = response.data;
 
